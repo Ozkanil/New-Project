@@ -6,6 +6,7 @@ public class Main {
         System.out.println("New Project");
         int a= 5;
         int b=2;
+        String="hello";
         
        Ad new variable!!!
     }
